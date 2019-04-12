@@ -4,7 +4,7 @@ Task App built for the AP CSP Create Task Project
 
 [Video]()
 
-[APK Download]()
+[APK Download](https://github.com/dzt/task-app/releases/download/1.0.0/task-app-1.0.0)
 
 ![screenshot](https://i.imgur.com/UT31th4.png)
 
